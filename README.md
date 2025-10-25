@@ -78,19 +78,6 @@ const ezValorazetho = {
 ![Rust](https://img.shields.io/badge/Rust-00ADD8?style=flat&logo=rust&logoColor=red)
 
 </td>
-<!-- <td width="50%">
-
-### 🔐 [SecureAuth Kit](https://github.com/ezvalorazetho/secureauth-kit)
-**Production-ready auth template**
-- JWT + OAuth2 + MFA support
-- Rate limiting & CSRF protection
-- Works with Next.js, React, Vue
-- Battle-tested in production
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-</td> -->
 </tr>
 </table>
 
@@ -167,44 +154,6 @@ const ezValorazetho = {
 - 💼 Freelance consulting (cloud architecture, full-stack development)
 - 🎮 Duo queue in Valorant (Immortal+ only)
 - ☕ Tech discussions over coffee
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Go and Kubernetes](https://blog.ezvalorazetho.dev/microservices-go-k8s)
-- [Next.js 15 Performance Optimization: A Deep Dive](https://blog.ezvalorazetho.dev/nextjs-15-optimization)
-- [AI-Powered Code Review: My Custom VS Code Extension](https://blog.ezvalorazetho.dev/ai-code-review)
-- [From Monolith to Microservices: A Migration Story](https://blog.ezvalorazetho.dev/monolith-to-microservices)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 2025 Goals
-
-- [ ] Contribute to 10+ major open-source projects
-- [ ] Launch SaaS product with 1K+ users
-- [ ] Obtain Rust certification
-- [ ] Speak at 3 tech conferences
-- [ ] Reach Radiant in Valorant
-- [ ] Build with AI agents & autonomous systems
-
----
-
-<div align="center">
-
-### 💭 Philosophy
-
-*"Every commit is an ace until proven otherwise. Code with purpose, deploy with confidence."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=ezvalorazetho&color=00F7F7&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ezvalorazetho?style=flat-square&color=00F7F7&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/ezvalorazetho?style=flat-square&color=00F7F7&labelColor=0D1117)
-
-**⭐ If you find my work valuable, consider starring my repos!**
 
 </div>
 
